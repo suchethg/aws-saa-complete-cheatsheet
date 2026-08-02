@@ -1,4 +1,4 @@
-Here is the complete, formatted **`README.md`** file for **Amazon VPC & Hybrid Networking** ready for your study notes repo, incorporating all the exact rules, traps, and ephemeral port details tested on the SAA-C03 exam.
+
 
 
 # **VPC — Virtual Private Cloud & Hybrid Networking**
