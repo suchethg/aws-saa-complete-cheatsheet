@@ -126,5 +126,4 @@ This repository is available under the [MIT License](LICENSE). Feel free to use 
 
 ---
 
-**Happy Learning and best of luck conquering the AWS SAA exam! 🚀 Gambare! ☁️**
-*— Devesh Talreja*
+
