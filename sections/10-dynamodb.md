@@ -1,4 +1,4 @@
-Here is the updated, complete **`README.md`** file for **Amazon DynamoDB** tailored for the AWS SAA-C03 exam. It incorporates core concepts, indexing, VPC gateway endpoints, AWS Backup integrations, auto-scaling mechanics, identity federation, and common exam traps.
+
 
 
 # **DynamoDB — The Serverless NoSQL Giant**
