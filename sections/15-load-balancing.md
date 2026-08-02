@@ -1,5 +1,3 @@
-Here is the expanded markdown section covering **Elastic Load Balancing (ELB)** for the SAA-C03 exam. You can copy and drop this straight into your notes repo.
-
 
 # **Elastic Load Balancing — Three Types Compared**
 
