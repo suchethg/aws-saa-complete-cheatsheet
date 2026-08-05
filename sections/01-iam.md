@@ -78,11 +78,11 @@ Roles are used constantly in SAA exam scenarios. Learn to recognize WHEN to use 
 
 ---
 
-## **IAM database authentication provides the following benefits:**
+### **IAM database authentication provides the following benefits:**
 
-| 1 | Network traffic to and from the database is encrypted using Secure Sockets Layer (SSL). |
-| 2 | You can use IAM to centrally manage access to your database resources instead of managing access individually on each DB instance. |
-| 3 | For applications running on Amazon EC2, you can use profile credentials specific to your EC2 instance to access your database instead of a password for greater security |
+1. **Encrypted Network Traffic:** Network traffic to and from the database is encrypted using Secure Sockets Layer/Transport Layer Security (SSL/TLS).
+2. **Centralized Access Management:** You can use IAM to centrally manage access to your database resources instead of managing access individually on each DB instance.
+3. **Passwordless EC2 Access:** For applications running on Amazon EC2, you can use IAM instance profile credentials to access your database instead of hardcoding or managing passwords.
 
 ## **Permission Boundaries**
 
